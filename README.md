@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @leiurus906
 - 👀 I’m interested in Software design and development as well as the cybersecurity field.
 - 🌱 I’m currently learning python and will start my masters degree in computer science focus on cybersecurity in next october 2021.
-- 📫 You can reach me at adham906@hotmail.com .
+- 📫 You can reach me at adham900600@gmail.com .
 - Thanks for you time and interest.
 
 <!---
